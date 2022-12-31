@@ -1,0 +1,56 @@
+{
+    "rs": [
+      {
+        "id": "1",
+        "title": "Avengers: Infinity Wars",
+        "voteAvarage": "",
+        "pictureId": "https://asset.kompas.com/crops/mOKFrYHlSTM6SEt4aD9PIXZnJE0=/0x5:593x400/750x500/data/photo/2020/03/16/5e6ee88f78835.jpg",
+        "city": "Surabaya",
+        "rating": 5,
+        "room": {
+          "executive": [
+            {
+              "name": "Matzo farfel Room"
+            },
+            {
+              "name": "Sweet Room"
+            }
+          ],
+          "ekonomi": [
+            {
+              "name": "Coklat panas Room"
+            },
+            {
+              "name": "Grill Room"
+            }
+          ]
+        }
+      },
+      {
+        "id": "2",
+        "name": "RS Ramah Seindonesia",
+        "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+        "pictureId": "https://cdn.antaranews.com/cache/800x533/2022/06/21/FOTO-Advent.png",
+        "city": "Jakarta",
+        "rating": 3.2,
+        "room": {
+          "executive": [
+            {
+              "name": "Anak Room"
+            },
+            {
+              "name": "Dewasa Room"
+            }
+          ],
+          "ekonomi": [
+            {
+              "name": "Biasa Room"
+            },
+            {
+              "name": "Tidak biasa Room"
+            }
+          ]
+        }
+      }
+    ]
+  }
